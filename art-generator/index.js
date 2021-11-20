@@ -1,3 +1,3 @@
-const {drawLayer} = require('./src')
+const {startApp} = require('./src')
 
-drawLayer()
+startApp()
