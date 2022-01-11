@@ -1,2 +1,0 @@
-!!undefined //false
-!!null //false
